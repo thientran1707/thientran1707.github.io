@@ -75,9 +75,9 @@ p {
 }
 
 .profile {
-  height: 250px;
-  height: 250px;
-  border-radius: 125px;
+  height: 200px;
+  height: 200px;
+  border-radius: 100px;
 }
 
 .sidebar-wrapper .name {
